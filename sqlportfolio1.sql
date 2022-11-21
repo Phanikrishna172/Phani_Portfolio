@@ -1,4 +1,4 @@
---SQL Portfolio Project 
+--SQL Portfolio Project (dvdrental database)
 
 --How many payment transactions were greater than $5.00?
   SELECT COUNT(*) FROM payment
