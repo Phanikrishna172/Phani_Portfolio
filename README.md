@@ -11,3 +11,10 @@
 #[Project 2 : Ad-Hoc analysis is done on DVD rental database in PostgreSQL : Project Overview](https://github.com/Phanikrishna172/Phani_Portfolio/blob/main/sqlportfolio1.sql)
 - Queries are performed to extract information from the database.
 - Various questions are answered using query language as per Business needs.
+
+
+# Project 3 : 911 Calls Project : Project Overview
+- Exploratory Data Analysis is done on emergency calls dataset obtained from kaggle.
+- Missing data is filled using statistical techniques.
+- Visualisations are done to gain proper insights and analyse the data.
+- Various questions are answered from the data.
