@@ -10,13 +10,21 @@
 
 
 
-#[Project 2 : Ad-Hoc analysis is done on DVD rental database in PostgreSQL : Project Overview](https://github.com/Phanikrishna172/Phani_Portfolio/blob/main/sqlportfolio1.sql)
+#[Project 2 : Power BI Report on International Student Services : Project Overview]
+- Created an interactive Power BI report for the administrative officials in the International Student Services department.
+-	This two page report shows insights based on the education and demograph data of the students.
+-	Each page has filters such as enrollment year, degree major, country as all the visuals are interative based on that particular filter for better understanding of the raw data to the end users.
+-	User friendly functional buttons are provided to easily navigate between the report pages.
+
+
+
+#[Project 3 : Ad-Hoc analysis is done on DVD rental database in PostgreSQL : Project Overview](https://github.com/Phanikrishna172/Phani_Portfolio/blob/main/sqlportfolio1.sql)
 - Queries are performed to extract information from the DVD rental database containing 15 tables.
--	Various questions like top 5 products sold, top 10 customers etc., are answered using query language to gain insights from the data which can help the business.
+-	Various insights like top 5 products sold, top 10 customers etc., are understood using query language to gain insights from the data which can help the business.
 
 
 
-#[Project 3 : 911 Calls Project : Project Overview](https://github.com/Phanikrishna172/Phani_Portfolio/blob/main/911%20Calls%20Project.ipynb)
+#[Project 4 : 911 Calls Project : Project Overview](https://github.com/Phanikrishna172/Phani_Portfolio/blob/main/911%20Calls%20Project.ipynb)
 -	EDA is done on emergency calls dataset containing 99,492 entries in 9 columns obtained from kaggle using Pandas.
 - Missing data regarding the calls in 9, 10 and 11 months is compensated using statistical techniques like linear model plot in Seaborn.
 -	The column title which is the description of the call had 110 unique reasons. Upon analysis they are divided into 3 main categories namely EMS, Traffic and Fire with this a new column called Reason is created using apply and lambda function.
