@@ -10,7 +10,7 @@
 
 
 
-#[Project 2 : Power BI Report on International Student Services : Project Overview]
+#[Project 2 : Power BI Report on International Student Services : Project Overview](https://github.com/Phanikrishna172/Phani_Portfolio/blob/main/International_Student_Services_Report.pbix)
 - Created an interactive Power BI report for the administrative officials in the International Student Services department.
 -	This two page report shows insights based on the education and demograph data of the students.
 -	Each page has filters such as enrollment year, degree major, country as all the visuals are interative based on that particular filter for better understanding of the raw data to the end users.
