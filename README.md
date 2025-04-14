@@ -1,6 +1,6 @@
 # Phani_Portfolio
 
-#[Project 1 : Power BI report on Maven Market Sales : Project Overview](https://github.com/Phanikrishna172/Phani_Portfolio/blob/main/Maven_market_Report.pbix)
+#[Project 1 : Power BI report on Maven Market Sales : Project Overview](https://github.com/Phanikrishna172/Phani_Portfolio/blob/main/Maven_market_Report.pbix)(https://github.com/Phanikrishna172/Phani_Portfolio/commit/aaf8c053b914eaed48ddd1a104fc2af592a5d552)
 - Created an interactive dashboard showing the sales of top 30 product brands on the basis of total transactions in USA, Canada and Mexico combined. Data of 7 tables containing customer, regions, transaction, return, dates information etc., is modelled. Data in each table is cleaned and manipulated accordingly using Power Query.
 - The brand which accounted for most transactions was Hermanos with 5342 transactions and a profit margin of 58.64%. Among countries, USA had 93,986 transactions followed by Mexico with 72,806 transactions and Canada with 16,091 transactions.
 - DAX measures like total transactions, YTD revenue, previous month revenue etc., are created and used in the dashboard to gain proper insight into the data.
