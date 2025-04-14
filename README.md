@@ -18,13 +18,22 @@
 
 
 
-#[Project 3 : Ad-Hoc analysis is done on DVD rental database in PostgreSQL : Project Overview](https://github.com/Phanikrishna172/Phani_Portfolio/blob/main/sqlportfolio1.sql)
+#[Project 3 : Tableau Dashboard on FIFA 18 soccer dataset : Project Overview]
+-  Tableau dashboard is designed for the fifa 18 kaggle dataset.
+-	The dashbord consists of a radar chart which represents the six main attributes of a player namely Pace, Shooting, Passing, Defence, Dribbling,Physical.
+-	The dashboard also consists of data cards which represents the demograph of a players when filtered by name.
+-	The radar chart is manually built in Tableu by creating calculated fields like angle and distance for the player attributes.
+-	An images is created in Power Point for the attribute names and is used as a background image for the radar chart.
+
+
+
+#[Project 4 : Ad-Hoc analysis is done on DVD rental database in PostgreSQL : Project Overview](https://github.com/Phanikrishna172/Phani_Portfolio/blob/main/sqlportfolio1.sql)
 - Queries are performed to extract information from the DVD rental database containing 15 tables.
 -	Various insights like top 5 products sold, top 10 customers etc., are understood using query language to gain insights from the data which can help the business.
 
 
 
-#[Project 4 : 911 Calls Project : Project Overview](https://github.com/Phanikrishna172/Phani_Portfolio/blob/main/911%20Calls%20Project.ipynb)
+#[Project 5  : 911 Calls Project : Project Overview](https://github.com/Phanikrishna172/Phani_Portfolio/blob/main/911%20Calls%20Project.ipynb)
 -	EDA is done on emergency calls dataset containing 99,492 entries in 9 columns obtained from kaggle using Pandas.
 - Missing data regarding the calls in 9, 10 and 11 months is compensated using statistical techniques like linear model plot in Seaborn.
 -	The column title which is the description of the call had 110 unique reasons. Upon analysis they are divided into 3 main categories namely EMS, Traffic and Fire with this a new column called Reason is created using apply and lambda function.
