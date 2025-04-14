@@ -18,7 +18,7 @@
 
 
 
-#[Project 3 : Tableau Dashboard on FIFA 18 soccer dataset : Project Overview](https://github.com/Phanikrishna172/Phani_Portfolio/commit/6b42f387fe56e26aec70da0d3c336df409bae3e6)
+#[Project 3 : Tableau Dashboard on FIFA 18 soccer dataset : Project Overview](https://github.com/Phanikrishna172/Phani_Portfolio/commit/6b42f387fe56e26aec70da0d3c336df409bae3e6)(https://github.com/Phanikrishna172/Phani_Portfolio/commit/d3f23ec83780abe2f5c57819d08d221f83ea8a16)
 -  Tableau dashboard is designed for the fifa 18 kaggle dataset.
 -	The dashboard consists of a radar chart which represents the six main attributes of a player namely Pace, Shooting, Passing, Defense, Dribbling, Physical.
 -	The dashboard also consists of data cards which represents the demograph of a players when filtered by name.
